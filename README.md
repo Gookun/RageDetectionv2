@@ -9,7 +9,8 @@ Dataset
 it was created by me
 -------------------------------------------------------------------------------------
 Tools
-MobileNetv2, Dense
-Deep learning
+
+MobileNetv2, Dense,
+Deep learning,
 Tensorflow, opencv
 -------------------------------------------------------------------------------------
