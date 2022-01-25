@@ -19,5 +19,8 @@ Training and validation loss <br />
 <img src = "https://i.ibb.co/rkLSKp3/test1.png"> <br />
 Training and validation accuracy <br />
 <img src = "https://i.ibb.co/f8cCrKf/test2.png"> <br />
-<img src = "https://i.ibb.co/VpcBqq6/1.png">
+Classification Report <br />
+<img src = "https://i.ibb.co/ygp94gC/classireport.png"> <br />
+Results <br />
+<img src = "https://i.ibb.co/VpcBqq6/1.png"><br />
 <img src = "https://i.ibb.co/jbQFYx0/2.png">
