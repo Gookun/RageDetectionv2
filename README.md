@@ -5,22 +5,22 @@ video games and people tend to get angry while playing games. Which is bad
 for their mental health. So in this project, we are going to detect
 angry people breaking stuffs.
 -------------------------------------------------------------------------------------
-Dataset <br />
+<h2>Dataset</h2> <br />
 it was created by me.
 link down below,
 https://tinyurl.com/RageDataset
 -------------------------------------------------------------------------------------
-Tools <br />
+<h2>Tools</h2> <br />
 MobileNetv2, Dense,
 Deep learning,
-Tensorflow, opencv.
+Tensorflow, opencv.<br />
 -------------------------------------------------------------------------------------
-Training and validation loss <br />
+<h2>Training and validation loss</h2> <br />
 <img src = "https://i.ibb.co/rkLSKp3/test1.png"> <br />
-Training and validation accuracy <br />
+<h2>Training and validation accuracy</h2> <br />
 <img src = "https://i.ibb.co/f8cCrKf/test2.png"> <br />
-Classification Report <br />
+<h2>Classification Report</h2> <br />
 <img src = "https://i.ibb.co/ygp94gC/classireport.png"> <br />
-Results <br />
+<h2>Results</h2> <br />
 <img src = "https://i.ibb.co/VpcBqq6/1.png"><br />
 <img src = "https://i.ibb.co/jbQFYx0/2.png">
