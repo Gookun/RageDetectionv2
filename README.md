@@ -7,12 +7,15 @@ angry people breaking stuffs.
 -------------------------------------------------------------------------------------
 Dataset <br />
 it was created by me.
-https://drive.google.com/drive/folders/1UGFKccOE5CzJei4IxwctvRmO7BVAvdgR?usp=sharing
+link down below,
+https://tinyurl.com/RageDataset
 -------------------------------------------------------------------------------------
 Tools <br />
 MobileNetv2, Dense,
 Deep learning,
 Tensorflow, opencv.
 -------------------------------------------------------------------------------------
+<img src = "https://i.ibb.co/rkLSKp3/test1.png">
+<img src = "https://i.ibb.co/f8cCrKf/test2.png">
 <img src = "https://i.ibb.co/VpcBqq6/1.png">
 <img src = "https://i.ibb.co/jbQFYx0/2.png">
