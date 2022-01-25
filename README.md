@@ -14,5 +14,5 @@ MobileNetv2, Dense,
 Deep learning,
 Tensorflow, opencv.
 -------------------------------------------------------------------------------------
-<img src = "https://ibb.co/tPTCJJR">
-<img src = "https://ibb.co/zQBwgL9">
+<img src = "https://i.ibb.co/VpcBqq6/1.png">
+<img src = "https://i.ibb.co/jbQFYx0/2.png">
