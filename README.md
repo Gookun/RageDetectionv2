@@ -15,7 +15,9 @@ MobileNetv2, Dense,
 Deep learning,
 Tensorflow, opencv.
 -------------------------------------------------------------------------------------
+Training and validation loss
 <img src = "https://i.ibb.co/rkLSKp3/test1.png">
+Training and validation accuracy
 <img src = "https://i.ibb.co/f8cCrKf/test2.png">
 <img src = "https://i.ibb.co/VpcBqq6/1.png">
 <img src = "https://i.ibb.co/jbQFYx0/2.png">
